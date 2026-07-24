@@ -4,12 +4,26 @@ Co-founder and product builder working at the intersection of hashrate and agent
 
 I helped build [Luxor](https://luxor.tech), infrastructure and markets for Bitcoin mining, and I'm now building [Tenki](https://tenki.cloud), cloud infrastructure for agents.
 
-## Start here
+## Tenki
 
-- ⛏️ [Luxor](https://luxor.tech): the full-stack compute company (bitcoin mining and AI)
-- 🧰 [Tenki Sandbox](https://tenki.cloud/products/sandbox): secure computers for AI agents
-- 🔍 [Tenki Code Reviewer](https://tenki.cloud/products/code-reviewer): AI code review that catches real bugs
-- ⚡ [Tenki Runners](https://tenki.cloud/products/runners): faster, lower-cost GitHub Actions runners
+[tenki.cloud](https://tenki.cloud): cloud infrastructure for your code and agents
+
+- 🧰 [Sandbox](https://tenki.cloud/products/sandbox): secure computers for AI agents
+- 🔍 [Code Reviewer](https://tenki.cloud/products/code-reviewer): AI code review that catches real bugs
+- ⚡ [Runners](https://tenki.cloud/products/runners): faster, lower-cost GitHub Actions runners
+- 🖥️ Sandbox ADE: native desktop app for orchestrating sandbox sessions ([macOS](https://tenki.cloud/api/download?platform=mac), [Linux .deb](https://tenki.cloud/api/download?platform=linux-deb), [Linux .AppImage](https://tenki.cloud/api/download?platform=linux-appimage))
+
+## Luxor
+
+[luxor.tech](https://luxor.tech): the full-stack compute company (bitcoin mining and AI)
+
+- ⛏️ [Mining Pool](https://luxor.tech/mining/mining-pool): U.S.-based and SOC 2 certified, with FPPS, Fixed, and Upfront payouts
+- 💻 [LuxOS](https://luxor.tech/mining/firmware): ASIC firmware for tuning hashrate and power efficiency
+- 🎛️ [Commander](https://luxor.tech/mining/commander): fleet monitoring and remote control at scale
+- 📦 [Hardware](https://luxor.tech/mining/hardware): ASIC and GPU brokerage, logistics, and financing
+- 📈 [Derivatives](https://luxor.tech/mining/derivatives): OTC contracts for hedging hashprice
+- 🔌 [Energy](https://luxor.tech/mining/energy): retail power, grid participation, and demand response
+- 📊 [Hashrate Index](https://hashrateindex.com): mining market data and research
 
 
 ## What I'm thinking about
@@ -23,4 +37,4 @@ I helped build [Luxor](https://luxor.tech), infrastructure and markets for Bitco
 
 ## Elsewhere
 
-[Website](https://guzmanpintos.com) · [X](https://x.com/guzmanpintos) · [Luxor](https://luxor.tech) · [Tenki](https://tenki.cloud)
+[Website](https://guzmanpintos.com) · [X](https://x.com/guzmanpintos)
