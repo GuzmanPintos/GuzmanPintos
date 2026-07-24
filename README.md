@@ -6,7 +6,7 @@ I helped build [Luxor](https://luxor.tech), infrastructure and markets for Bitco
 
 ## Tenki
 
-[tenki.cloud](https://tenki.cloud): cloud infrastructure for your code and agents
+[tenki.cloud](https://tenki.cloud): cloud infrastructure for your AI agents
 
 - 🧰 [Sandbox](https://tenki.cloud/products/sandbox): secure computers for AI agents
 - 🔍 [Code Reviewer](https://tenki.cloud/products/code-reviewer): AI code review that catches real bugs
