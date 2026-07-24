@@ -18,7 +18,7 @@ I helped build [Luxor](https://luxor.tech), infrastructure and markets for Bitco
 [luxor.tech](https://luxor.tech): the full-stack compute company (bitcoin mining and AI)
 
 - ⛏️ [Mining Pool](https://luxor.tech/mining/mining-pool): U.S.-based and SOC 2 certified, with FPPS, Fixed, and Upfront payouts
-- 💻 [LuxOS](https://luxor.tech/mining/firmware): ASIC firmware for tuning hashrate and power efficiency
+- 💻 [LuxOS](https://luxor.tech/mining/firmware): ASIC firmware for Bitmain and MicroBT miners
 - 🎛️ [Commander](https://luxor.tech/mining/commander): fleet monitoring and remote control at scale
 - 📦 [Hardware](https://luxor.tech/mining/hardware): ASIC and GPU brokerage, logistics, and financing
 - 📈 [Derivatives](https://luxor.tech/mining/derivatives): OTC contracts for hedging hashprice
