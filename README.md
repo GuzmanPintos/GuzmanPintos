@@ -26,6 +26,11 @@ I helped build [Luxor](https://luxor.tech), infrastructure and markets for Bitco
 - 📊 [Hashrate Index](https://hashrateindex.com): mining market data and research
 
 
+## Projects
+
+- 🌱 [Jardinero](https://jardinero.dev): open-source AI engineer that tends your codebase while you're away ([source](https://github.com/luxorlabs/jardinero))
+
+
 ## What I'm thinking about
 
 - Compute as a market, from Bitcoin hashrate to AI workloads. I've spent years building infrastructure and markets for Bitcoin hashrate. Now I'm working out how those lessons carry over to AI: how compute gets priced, scheduled, verified, and delivered.
