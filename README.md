@@ -12,7 +12,7 @@ I helped build [Luxor](https://luxor.tech), infrastructure and markets for Bitco
 - 🔍 [Code Reviewer](https://luxor.ai/products/code-reviewer): AI code review that catches real bugs
 - ⚡ [Runners](https://luxor.ai/products/runners): faster, lower-cost GitHub Actions runners
 
-## Luxor
+## Luxor Mining
 
 [luxor.tech](https://luxor.tech): the full-stack compute company (bitcoin mining and AI)
 
