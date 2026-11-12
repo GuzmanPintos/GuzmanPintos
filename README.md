@@ -4,7 +4,7 @@ Co-founder and product builder working at the intersection of hashrate and agent
 
 I helped build [Luxor](https://luxor.tech), infrastructure and markets for Bitcoin mining, and I'm now building [Luxor Agent Cloud](https://luxor.ai), infrastructure for agents.
 
-## Tenki
+## Luxor Agent Cloud
 
 [luxor.ai](https://luxor.ai): cloud infrastructure for your AI agents
 
