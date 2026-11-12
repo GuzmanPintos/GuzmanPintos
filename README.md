@@ -11,7 +11,6 @@ I helped build [Luxor](https://luxor.tech), infrastructure and markets for Bitco
 - 🧰 [Sandbox](https://luxor.ai/products/sandbox): secure computers for AI agents
 - 🔍 [Code Reviewer](https://luxor.ai/products/code-reviewer): AI code review that catches real bugs
 - ⚡ [Runners](https://luxor.ai/products/runners): faster, lower-cost GitHub Actions runners
-- 🖥️ Sandbox ADE: native desktop app for orchestrating sandbox sessions ([macOS](https://luxor.ai/api/download?platform=mac), [Linux .deb](https://luxor.ai/api/download?platform=linux-deb), [Linux .AppImage](https://luxor.ai/api/download?platform=linux-appimage))
 
 ## Luxor
 
