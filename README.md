@@ -2,16 +2,16 @@
 
 Co-founder and product builder working at the intersection of hashrate and agents.
 
-I helped build [Luxor](https://luxor.tech), infrastructure and markets for Bitcoin mining, and I'm now building [Tenki](https://tenki.cloud), cloud infrastructure for agents.
+I helped build [Luxor](https://luxor.tech), infrastructure and markets for Bitcoin mining, and I'm now building [Luxor Agent Cloud](https://luxor.ai), infrastructure for agents.
 
 ## Tenki
 
-[tenki.cloud](https://tenki.cloud): cloud infrastructure for your AI agents
+[luxor.ai](https://luxor.ai): cloud infrastructure for your AI agents
 
-- 🧰 [Sandbox](https://tenki.cloud/products/sandbox): secure computers for AI agents
-- 🔍 [Code Reviewer](https://tenki.cloud/products/code-reviewer): AI code review that catches real bugs
-- ⚡ [Runners](https://tenki.cloud/products/runners): faster, lower-cost GitHub Actions runners
-- 🖥️ Sandbox ADE: native desktop app for orchestrating sandbox sessions ([macOS](https://tenki.cloud/api/download?platform=mac), [Linux .deb](https://tenki.cloud/api/download?platform=linux-deb), [Linux .AppImage](https://tenki.cloud/api/download?platform=linux-appimage))
+- 🧰 [Sandbox](https://luxor.ai/products/sandbox): secure computers for AI agents
+- 🔍 [Code Reviewer](https://luxor.ai/products/code-reviewer): AI code review that catches real bugs
+- ⚡ [Runners](https://luxor.ai/products/runners): faster, lower-cost GitHub Actions runners
+- 🖥️ Sandbox ADE: native desktop app for orchestrating sandbox sessions ([macOS](https://luxor.ai/api/download?platform=mac), [Linux .deb](https://luxor.ai/api/download?platform=linux-deb), [Linux .AppImage](https://luxor.ai/api/download?platform=linux-appimage))
 
 ## Luxor
 
